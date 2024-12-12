@@ -1,7 +1,7 @@
 # 👨‍💻 **Hey there! Welcome to my profile!**
 
 Want to know what I'm currently working on?  
-Check out [ExploitBig]([https://github.com/Paulie_Production/ExploitBig](https://github.com/ISUCKAZZ/ExploitBig)).
+Check out [ExploitBig]([https://github.com/Paulie_Production/ExploitBig](https://github.com/ISUCKAZZ/ExploitBig).
 
 
 I haven't been super active lately, but I'm planning to dive back into development once I finish a few projects! 
