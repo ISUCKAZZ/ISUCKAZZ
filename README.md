@@ -44,7 +44,7 @@ Thanks for your patience and continued support! 😊
 
 ### 🎮 **Favorite Games**  
 - **Minecraft** 🏰  
-- **CS:GO** 🔫  
+- **Half Sword** 🔫  
 - **Rust** 🔥  
 - **GMOD** (Garry's Mod) 🎮
 
