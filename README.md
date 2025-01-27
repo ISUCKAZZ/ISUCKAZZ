@@ -19,8 +19,8 @@ Thanks for your patience and continued support! 😊
 ![Isometric Commit Calendar](https://github-readme-stats.vercel.app/api?username=ISUCKAZZ&show_icons=true&count_private=true&hide_title=true&theme=dark&hide=prs)  
 
 - **Commit streaks**: Best streak 11 days  
-- **Commits per day**: Average of **8 commits**  
-- **Highest in a day**: **22 commits**  
+- **Commits per day**: Average of **5 commits**  
+- **Highest in a day**: **29 commits**  
 
 ---
 
