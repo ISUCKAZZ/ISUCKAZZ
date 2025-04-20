@@ -28,7 +28,7 @@ Thanks for your patience and continued support! 😊
 
 ---
 
-- **Repositories**: 0 Public Repos  
+- **Repositories**: 1 Public Repos  
 - **Contributions**: 2  
 - **Followers**: 1
 
