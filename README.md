@@ -20,7 +20,7 @@ Thanks for your patience and continued support! 😊
 
 - **Commit streaks**: Best streak 11 days  
 - **Commits per day**: Average of **5 commits**  
-- **Highest in a day**: **29 commits**  
+- **Highest in a day**: **179 commits**  
 
 ---
 
