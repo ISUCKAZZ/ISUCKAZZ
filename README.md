@@ -24,7 +24,7 @@ Thanks for your patience and continued support! 😊
 ---
 
 ## 💻 **Most Used Languages**  
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&theme=dark&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&theme=dark&layout=compact))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&theme=dark&layout=compact)
 
 ---
 
