@@ -1,7 +1,7 @@
 # 👨‍💻 **Hey there! Welcome to my profile!**
 
 Want to know what I'm currently working on?  
-Check out [LaggyWorld :p](https://isuckazz.github.io/LaggyWorld)
+Check out [LaggyWorld :p](https://laggyworld.github.io/LaggyWorld/index.html)
 
 I haven't been super active lately, but I'm planning to dive back into development once I finish a few projects! 
 
