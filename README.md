@@ -1,79 +1,31 @@
-# 👨‍💻 **Hey there! Welcome to my profile!**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&width=1000&lines=☠+CLASSIFIED+ACCESS+GRANTED...;⚡+Initializing+LAGGYWORLD+Neural+Link...;👁‍🗨+Entering+GLITCHGRID+::+BETA+v49.4" />
+</h1>
 
-Want to know what I'm currently working on?  
-Check out [LaggyWorld :p](https://laggyworld.github.io/LaggyWorld/index.html)
-
-I haven't been super active lately, but I'm planning to dive back into development once I finish a few projects! 
-
-Thanks for your patience and continued support! 😊
-
----
-
-## 👤 **Paulie_Production** (AKA **ISUCKAZZ**)  
-**Joined GitHub 1 year ago**    
+<p align="center">
+  <img src="https://media.giphy.com/media/2xPP3XtnuI1VZK1jqr/giphy.gif" width="250" title="Data Wormhole Initiated" />
+  <br/>
+  <img src="https://media.giphy.com/media/X8g6fovbOheOA/giphy.gif" width="200" title="Hologram Earth Spin" />
+  <br/>
+  <img src="https://media.giphy.com/media/j2mYFjH0k8wAEqvw0r/giphy.gif" width="180" title="Visualizing Worldstreams" />
+</p>
 
 ---
 
-## 📅 **Commit History**  
-![Isometric Commit Calendar](https://github-readme-stats.vercel.app/api?username=ISUCKAZZ&show_icons=true&count_private=true&hide_title=true&theme=dark&hide=prs)  
+### 🧬 SYSTEM BOOT SEQUENCE: `LAGGYWORLD_MAINFRAME`
+**[ENCRYPTION]:** `Ω AES-Quantum`  
+**[CONNECTION]:** `Level 7 Clearance`  
+**[STATUS]:** `SYNAPSE ONLINE`  
+**[REALITY MODE]:** `GLITCHGRID_STABLE_β49.4`  
+**[AGENT TAGGED]:** `Paulie_Production`  
 
-- **Commit streaks**: Best streak 11 days  
-- **Commits per day**: Average of **5 commits**  
-- **Highest in a day**: **179 commits**  
-
----
-
-## 💻 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&theme=dark&layout=compact)
-
----
-
-- **Repositories**: 1 Public Repos  
-- **Contributions**: 2  
-- **Followers**: 1
-
----
-
-## 🎬 **My Favorite Things!**  
-
-### 🎥 **Favorite Animes**  
-- **Solo Leveling** (2016)  
-- **My Hero Academia** (2016)  
-- **Naruto** (2002)
-
-### 🎮 **Favorite Games**  
-- **Minecraft** 🏰  
-- **Half Sword** 🔫  
-- **Rust** 🔥  
-- **GMOD** (Garry's Mod) 🎮
-
-### 🧸 **Favorite Characters**  
-- **Shim Kyu-hyeok** (Solo Leveling)  
-- **Izuku Midoriya** (My Hero Academia)  
-- **Kakashi Hatake** (Naruto)
-
----
-
-## 🌐 **Social Links**  
-- [Twitter](https://twitter.com/ISUCKAZZ)  
-- [Gmail](mailto:joehomegamer@gmail.com)  
-- [GitHub](https://github.com/ISUCKAZZ)
-
----
-
-### 💡 **Current Projects & Goals**  
-I'm always learning and building, so feel free to check out my repos and follow me for updates on the next big thing I'm working on! 🚀
-
----
-
-## 🎨 **My Design & Modding Skills**  
-Currently building mods for **Minecraft** and working on custom servers, as well as scripting in **Java**, **C++**, and **JavaScript**. 🔧
-
----
-
-### 🔄 **Want to Collaborate?**  
-Feel free to reach out to me if you're interested in collaborating or just want to chat about tech, games, and anime! 🤝
-
----
-
-_Thanks for stopping by! Have a great day and stay awesome!_ ✨
+```bash
+> AUTHORIZATION VERIFIED [ #4X-99X-GR33N ]
+> Decoding Core Reality Layers...
+> Injecting Agent: Paulie_Production
+> TRACING WORLD DATA.... ████████████ 100%
+> SYSTEM WARMED. LIVE CONNECTION ESTABLISHED.
+> Virtual Light Tunnel Stable ░▒▓▉▉▉▓▒░
+> SYNAPTIC WAVE ALIGNMENT: 99.982%
+> DISCORD UPLINK: ✓
+> GITHUB STREAM LINKED...
