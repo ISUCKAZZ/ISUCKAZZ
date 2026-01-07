@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/poostudio-neon.svg" alt="PooSTudio Neon Sign" width="900" />
+  <img src="https://raw.githubusercontent.com/ISUCKAZZ/poostudio-neon.svg/main/poostudio-neon.svg" alt="PooSTudio Neon Sign" width="900" />
 </h1>
 
 <p align="center">
