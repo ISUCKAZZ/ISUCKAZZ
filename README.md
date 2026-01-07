@@ -1,34 +1,66 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=⚡+POOSTUDIO+3D+CORE+ACTIVATED;💀+HOLOGRAPHIC+INTERFACE+ONLINE;🔮+WELCOME+TO+THE+NEON+VOID+v2.0" alt="Typing SVG" />
+</h1>
 
-For even better performance:
-- If the snake/3D contrib grids still lag → temporarily comment them out with `<!-- -->` to test.
-- For a **true animated holographic skull** (instead of static fallback), try one of these direct GIF links (pick one that loads best for you):
-  - Purple glitch dissolve neon skull: https://media.giphy.com/media/some-cyber-skull-id/giphy.gif (search GIPHY "cyberpunk skull" for latest)
-  - Or from StockCake animated variants if available.
-- Your website (poostudio.github.io) might be minimal/empty right now — adding a simple 3D canvas (three.js skull hologram) there would make the "ENTER THE VOID" button way more immersive.
+<p align="center">
+  <img src="https://images.stockcake.com/public/6/6/5/6657bb43-8869-4743-b15c-0fc797fee040/neon-skull-dissolves-stockcake.jpg" 
+       width="800" 
+       alt="PooStudio 3D Holographic Neon Skull Core" 
+       style="border: 8px ridge #FF00FF; border-radius: 30px; box-shadow: 0 0 40px #FF00FF, 0 0 80px #9900FF, inset 0 0 20px #FF00FF;" />
+  <!-- If you want a true animated version, replace above src with this (from GIPHY/Tenor style sources): https://media.giphy.com/media/example-cyber-skull or find matching from search -->
+  <br><br>
+  <strong><code style="color:#FF00FF; background:#000; padding: 15px 30px; font-size: 24px; border-radius: 15px; box-shadow: 0 0 20px #FF00FF;">🌌 POOSTUDIO: 3D HOLOGRAPHIC REALM</code></strong>
+</p>
 
-To pimp your **PFP** (profile picture) even more, here are some killer neon cyberpunk holographic skull options. Crop any to square 1:1, add glow in an editor if needed, and set as your GitHub/X avatar — it'll match the README perfectly.
+<br />
 
-<grok-card data-id="7c29a6" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<p align="center">
+  <img src="https://github.com/ISUCKAZZ/ISUCKAZZ/blob/output/github-contribution-grid-snake-dark.svg" alt="3D Snake Contribution" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-nightview.svg">
+    <img src="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile.svg" width="800" alt="3D Contribution Grid" style="box-shadow: 0 0 40px #FF00FF;" />
+  </picture>
+</p>
 
+<br />
 
-<grok-card data-id="2122b6" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<p align="center">
+  <a href="https://poostudio.github.io/PooStudio/index.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_POOSTUDIO_WEBSITE-Enter_the_Void-FF00FF?style=for-the-badge&logoColor=white" alt="PooStudio Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/PooStudio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🐦_X_/_TWITTER-Follow_@PooStudio-FF00FF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
+<br />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISUCKAZZ&show_icons=true&theme=dracula&hide_border=true&border_radius=15&bg_color=0D0D0D&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&layout=donut&theme=dracula&hide_border=true&border_radius=15&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
 
-<grok-card data-id="cf32f6" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+---
 
+### 🔺 3D CORE INITIALIZATION: `POOSTUDIO_HOLO_ENGINE`
+\[`ENCRYPTION`\] ∆ Quantum-Neon Flux  
+\[`REALM DEPTH`\] 3D_HOLOGRID_ULTRA_v2.0  
+\[`CREATOR AGENT`\] Paulie_Production  
 
-
-<grok-card data-id="1526f8" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="442a4f" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="57517b" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-Refresh GitHub after updating, clear cache if needed (Ctrl+F5), and it should go from 2% → full neon overload. If it's still stuck, drop a screenshot or tell me which part isn't loading — we'll debug it further. Reality warp initiated 💀🔮
+```bash
+> ACCESS GRANTED [ #P00-X3D-VOID ]
+> Launching 3D HOLO Modules...
+> Rendering Depth Layers... ██████████████ 100%
+> Injecting Neon Skull Core... 💀 OK
+> Spinning Holographic Void... 🔮 ACTIVE
+> 3D DATA STREAM: ████████████████ 100%
+> SYSTEM HYPED. FULL IMMERSION LINK LIVE.
+> Holographic Pulse: ▓▓▒░▒▓▓▒░▒▓▓
+> Depth Sync: ✔ 100.000%
+> Gateways: [ WEBSITE ✓ ] [ X ✓ ] [ GITHUB ✓ ]
+> READY TO WARP REALITY.
