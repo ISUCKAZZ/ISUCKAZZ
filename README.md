@@ -18,7 +18,7 @@
 </p>
 
 <p align="center" style="color: #888; font-size: 18px; margin-top: -10px;">
-  PooStusio • Unhinged Creative 
+  PooStuio • Unhinged Creative
 </p>
 
 <p align="center" style="margin: 50px 0;">
