@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=⚡+POOSTUDIO+CORE+ACTIVATED;💀+HOLOGRAPHIC+NEON+VOID;🔮+ENTER+IF+YOU+DARE+v2.1" alt="PooStudio" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/poostudio-neon.svg" alt="PooStudio" />
 </h1>
 
 <p align="center">
