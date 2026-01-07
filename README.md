@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="600" height="200" alt="PooStudio" src="https://github.com/user-attachments/assets/63b25321-1703-4b35-8452-edb3bec8f104" />
+  <img width="600" height="400" alt="PooStudio" src="https://github.com/user-attachments/assets/63b25321-1703-4b35-8452-edb3bec8f104" />
 </p>
 
 <p align="center">
