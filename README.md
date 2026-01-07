@@ -1,8 +1,9 @@
-<h1 align="center">
+<img width="1024" height="1024" alt="PooStudio" src="https://github.com/user-attachments/assets/4d3d1d7f-02c0-4119-9dea-2eadf367853b" /><h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=⚡+POOSTUDIO+3D+CORE+ACTIVATED;💀+HOLOGRAPHIC+INTERFACE+ONLINE;🔮+WELCOME+TO+THE+NEON+VOID+v2.0" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/352/35236.gif" width="800" alt="PooStudio 3D Holographic Core" style="border: 8px ridge #FF00FF; border-radius: 30px; box-shadow: 0 0 40px #FF00FF, 0 0 80px #9900FF, inset 0 0 20px #FF00FF;" />
+  <img width="1024" height="1024" alt="PooStudio" src="https://github.com/user-attachments/assets/561f9eae-02d9-49a2-9b3f-b96373b945e7" />
+
   <br /><br />
   <strong><code style="color:#FF00FF; background:#000; padding: 15px 30px; font-size: 24px; border-radius: 15px; box-shadow: 0 0 20px #FF00FF;">🌌 POOSTUDIO: 3D HOLOGRAPHIC REALM</code></strong>
 </p>
