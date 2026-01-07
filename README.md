@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=⚡+POOSTUDIO+3D+CORE+ACTIVATED;💀+HOLOGRAPHIC+INTERFACE+ONLINE;🔮+WELCOME+TO+THE+NEON+VOID+v2.0" />
 </h1>
@@ -55,3 +56,34 @@
 > Depth Sync: ✔ 100.000%
 > Gateways: [ DISCORD ✓ ] [ GITHUB ✓ ] [ 3D VOID ✓ ]
 > READY TO WARP REALITY.
+```
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ISUCKAZZ&theme=dracula&hide_border=true&border_radius=15&background=0D0D0D&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ISUCKAZZ">
+    <img src="https://komarev.com/ghpvc/?username=ISUCKAZZ&color=FF00FF&style=flat-square&label=VOID+VISITORS" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Arsenal of Chaos:</strong><br />
+  <img src="https://img.shields.io/badge/Python-Expert-FF00FF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Advanced-FF00FF?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-Pro-FF00FF?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Master-FF00FF?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-Elite-FF00FF?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Native-FF00FF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Cyberpunk_3D_Holo-FF00FF?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git|VSCode|Neon-FF00FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Maximum_Glitch-FF00FF?style=flat-square&logo=discord&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>3D Profile Avatar Suggestion:</strong><br />
+  To make your GitHub PFP look 3D AF, upload a custom 3D-rendered avatar! Generate one using tools like Ready Player Me or Blender, then style it with neon glows. Here's a placeholder 3D vibe:<br />
+  <img src="https://images.stockcake.com/public/5/2/5/525a3a11-f4a8-4f87-b8e2-1d2e9b205d15_large/neon-holographic-avatar-stockcake.jpg" width="200" alt="3D Neon Avatar" style="border-radius: 50%; box-shadow: 0 0 30px #FF00FF;" />
+</p>
+```
