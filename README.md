@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong style="font-size: 32px; color: #FF0000; text-shadow: 0 0 15px #FF0000, 0 0 30px #990000;">
-    🌌 POOSTUDIO: 3D HOLOGRAPHIC REALM 🌌
+    🌌 POOSTUDIO 🌌
   </strong>
 </p>
 
