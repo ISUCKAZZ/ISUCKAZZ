@@ -1,28 +1,30 @@
 <svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Orbitron', 'Arial Black', sans-serif;
-      font-size: 160px;
-      font-weight: bold;
-      fill: #ff69b4;          /* softer hot pink */
-      text-anchor: middle;
-      dominant-baseline: central;
-      letter-spacing: 6px;
-      /* Very light glow only – no heavy stacking */
-      filter: drop-shadow(0 0 8px #ff69b4) drop-shadow(0 0 12px #ff69b4);
-    }
-    .subtle-flicker {
-      animation: subtle 6s ease-in-out infinite;
-    }
-    @keyframes subtle {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.85; }   /* gentle pulse instead of harsh flicker */
-    }
-  </style>
+  <defs>
+    <!-- Soft pink glow filter for backlight/halo effect -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#ff69b4" flood-opacity="0.6" result="glowColor"/>
+      <feComposite in="glowColor" in2="blur" operator="in" result="softGlow"/>
+      <feMerge>
+        <feMergeNode in="softGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <rect width="100%" height="100%" fill="#0a0012"/>  <!-- dark bg -->
+  <rect width="100%" height="100%" fill="#0a0012"/>  <!-- deep dark background -->
 
   <g transform="translate(500, 150)">
-    <text class="text subtle-flicker">PooStudio</text>
+    <!-- Text with soft back glow via filter -->
+    <text 
+      filter="url(#softGlow)"
+      font-family="Orbitron, 'Arial Black', sans-serif"
+      font-size="160"
+      font-weight="900"
+      fill="#ff69b4"           <!-- bright but readable pink -->
+      text-anchor="middle"
+      dominant-baseline="central"
+      letter-spacing="8"
+    >PooStudio</text>
   </g>
 </svg>
