@@ -1,61 +1,57 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2000&pause=300&color=800080&center=true&vCenter=true&width=1000&lines=☠+SECURE+ACCESS+INITIATED...;⚡+Launching+POOSTUDIO+Portal...;👁‍🗨+Entering+PooStudio+::+ALPHA+v1.0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=⚡+POOSTUDIO+3D+CORE+ACTIVATED;💀+HOLOGRAPHIC+INTERFACE+ONLINE;🔮+WELCOME+TO+THE+NEON+VOID+v2.0" />
 </h1>
+
 <p align="center">
-  <img src="https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/6916/1083372/9e333d6da838b9110fc89b3759a7a81d" width="600" alt="PooStudio Holographic Spin" style="border: 6px double #800080; border-radius: 20px; box-shadow: 0 0 30px #800080, 0 0 60px #800080;" />
+  <img src="https://cdn.pond5.com/blog/rs/uploads/2020/10/Cyberpunk-After-Effects-Plugins-AE-Pixel-Sorter-2.gif" width="800" alt="PooStudio 3D Holographic Core" style="border: 8px ridge #FF00FF; border-radius: 30px; box-shadow: 0 0 40px #FF00FF, 0 0 80px #9900FF, inset 0 0 20px #FF00FF;" />
   <br /><br />
-  <strong><code style="color:#800080; background:#000; padding: 10px 20px; font-size: 18px; border-radius: 12px;">🌐 POOSTUDIO: NEON INTERFACE</code></strong>
+  <strong><code style="color:#FF00FF; background:#000; padding: 15px 30px; font-size: 24px; border-radius: 15px; box-shadow: 0 0 20px #FF00FF;">🌌 POOSTUDIO: 3D HOLOGRAPHIC REALM</code></strong>
 </p>
+
 <br />
+
 <p align="center">
-  <img src="https://media.tenor.com/KBe_nw4IL2QAAAAM/matrix-code.gif" width="200" alt="Matrix Data Flow"/>
+  <img src="https://images.stockcake.com/public/6/3/9/639b1338-0841-44c1-83da-02e5bd836340_large/neon-dashboard-interface-stockcake.jpg" width="300" alt="Neon Matrix Flow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.stockcake.com/public/f/c/c/fcc8b398-4101-46b0-8ab8-9fbf8f3ae3d4_large/neon-digital-interface-stockcake.jpg" width="300" alt="Holographic HUD" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Realm_Mode-PooStudio_3D_v2.0-FF00FF?style=for-the-badge&logo=hologram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-HYPERACTIVE-FF00FF?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Depth-3D_HOLOGRAPHIC-FF00FF?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <br /><br />
-  <img src="https://img.shields.io/badge/Studio_Mode-PooStudio_αv1.0-800080?style=for-the-badge&logo=databricks&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Status-ONLINE-800080?style=for-the-badge&logo=github&logoColor=purple" />
-  <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_ENTER_POO_STUDIO-Click_Here-800080?style=for-the-badge&logo=windowsterminal&logoColor=purple" alt="Visit PooStudio" />
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/🔮_ENTER_THE_3D_VOID-Click_to_Dive-FF00FF?style=for-the-badge&logo=portal&logoColor=white" />
   </a>
 </p>
-  <br />
- 
-  <a href="https://github.com/ISUCKAZZ">
-    <img src="https://github-readme-stats.vercel.app/api?username=ISUCKAZZ&show_icons=true&theme=radical" />
-  </a>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&layout=compact&theme=radical" />
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISUCKAZZ&show_icons=true&theme=dracula&hide_border=true&border_radius=15&bg_color=0D0D0D&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISUCKAZZ&layout=donut&theme=dracula&hide_border=true&border_radius=15&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
+
 ---
-### 🧬 STUDIO INITIATION PROTOCOL: `POOSTUDIO_CORE`
-\[`ENCRYPTION`\] Ψ Quantum-RSA
-\[`STUDIO MODE`\] NEONGRID_ALPHA_1.0
-\[`AGENT DEPLOYED`\] Paulie_Production
+
+### 🔺 3D CORE INITIALIZATION: `POOSTUDIO_HOLO_ENGINE`
+\[`ENCRYPTION`\] ∆ Quantum-Neon Flux  
+\[`REALM DEPTH`\] 3D_HOLOGRID_ULTRA_v2.0  
+\[`CREATOR AGENT`\] Paulie_Production  
+
 ```bash
-> AUTHORIZATION CONFIRMED [ #PX-00X-PURP ]
-> Initializing CORE CREATIVE Modules...
-> Rendering Studio Layers... ██████████ 100%
-> Deploying Agent: Paulie_Production
-> Activating Neon Hologram... OK
-> STUDIO DATA SYNC: ████████████ 100%
-> SYSTEM ACTIVATED. DIRECT LINK ESTABLISHED.
-> Neon Pulse Integrity: ░▒▓▓▓▓▒░
-> Creative Waveform Sync: ✔ 99.999%
-> External Gateways: [ DISCORD ✓ ] [ GITHUB ✓ ]
-> READY FOR CREATION.
-```
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ISUCKAZZ&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <a href="https://github.com/ISUCKAZZ">
-    <img src="https://komarev.com/ghpvc/?username=ISUCKAZZ&color=800080" alt="Profile Views" />
-  </a>
-</p>
-<p align="center">
-  <strong>Skills & Tools:</strong><br />
-  <img src="https://img.shields.io/badge/Python-Expert-800080?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-800080?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5/CSS3-Pro-800080?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Native-800080?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-800080?style=flat-square&logo=git&logoColor=white" />
-</p>
+> ACCESS GRANTED [ #P00-X3D-VOID ]
+> Launching 3D HOLO Modules...
+> Rendering Depth Layers... ██████████████ 100%
+> Injecting Neon Skull Core... 💀 OK
+> Spinning Holographic Void... 🔮 ACTIVE
+> 3D DATA STREAM: ████████████████ 100%
+> SYSTEM HYPED. FULL IMMERSION LINK LIVE.
+> Holographic Pulse: ▓▓▒░▒▓▓▒░▒▓▓
+> Depth Sync: ✔ 100.000%
+> Gateways: [ DISCORD ✓ ] [ GITHUB ✓ ] [ 3D VOID ✓ ]
+> READY TO WARP REALITY.
