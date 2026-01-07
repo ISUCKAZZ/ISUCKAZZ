@@ -18,7 +18,7 @@
 </p>
 
 <p align="center" style="color: #888; font-size: 18px; margin-top: -10px;">
-  HOLOGRAPHIC NEON VOID • ENTER IF YOU DARE
+  PooStudio • Unhinged Creative
 </p>
 
 <p align="center" style="margin: 50px 0;">
