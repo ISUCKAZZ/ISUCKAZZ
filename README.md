@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FF0066&center=true&vCenter=true&width=1000&lines=⚡+POO+STUDIO+ACTIVATED;💀+NEON+VOID+ONLINE;🔮+ENTER+IF+YOU+DARE" alt="PooStudio Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3500&pause=800&color=FF0066&center=true&vCenter=true&width=1000&lines=⚡+POOSTUDIO+CORE+ACTIVATED;💀+HOLOGRAPHIC+NEON+VOID;🔮+ENTER+IF+YOU+DARE+v2.1" alt="PooStudio Typing Glitch" />
 </h1>
 
 <p align="center">
