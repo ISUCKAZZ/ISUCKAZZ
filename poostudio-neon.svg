@@ -1,1 +1,34 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    body { background: #000; margin: 0; }
+    .neon {
+      font-family: 'Orbitron', 'Arial Black', sans-serif;
+      font-size: 120px;
+      font-weight: bold;
+      fill: #ff004d;               /* bright neon pink/red base */
+      text-anchor: middle;
+      dominant-baseline: central;
+      letter-spacing: 8px;
+      text-shadow:
+        0 0 10px #ff004d,
+        0 0 20px #ff004d,
+        0 0 40px #ff004d,
+        0 0 80px #d4007f,
+        0 0 120px #d4007f,
+        0 0 160px #d4007f;
+    }
+    .flicker {
+      animation: flicker 4s linear infinite;
+    }
+    @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+      20%, 24%, 55% { opacity: 0.4; }
+    }
+  </style>
 
+  <rect width="100%" height="100%" fill="#0a0a0a"/>  <!-- dark void bg -->
+
+  <g transform="translate(500, 150)">
+    <text class="neon flicker">PooSTudio</text>
+  </g>
+</svg>
