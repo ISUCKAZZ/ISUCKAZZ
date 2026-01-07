@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1200&lines=⚡+POOSTUDIO+3D+CORE+ACTIVATED;💀+HOLOGRAPHIC+INTERFACE+ONLINE;🔮+WELCOME+TO+THE+NEON+VOID+v2.0" />
 </h1>
