@@ -8,10 +8,16 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 48px; color: #FF0000; text-shadow: 0 0 20px #FF0000, 0 0 40px #FF0000, 0 0 60px #990000;">
+  <strong style="font-size: 36px; color: #FF0000; text-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000; animation: flicker 3s infinite alternate;">
     🌌 POOSTUDIO 🌌
   </strong>
 </p>
+<style>
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { text-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000; }
+    20%, 24%, 55% { text-shadow: none; }
+  }
+</style>
 
 <p align="center" style="margin: 50px 0;">
   <a href="https://poostudio.github.io/PooStudio/index.html" target="_blank" rel="noopener noreferrer">
