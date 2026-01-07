@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600" alt="Neon Cyber Skull" style="border: 6px ridge #FF00FF; border-radius: 20px; box-shadow: 0 0 30px #FF00FF, inset 0 0 15px #FF00FF;" />
+  <img width="600" height="600" alt="PooStudio" src="https://github.com/user-attachments/assets/63b25321-1703-4b35-8452-edb3bec8f104" />
 </p>
 
 <p align="center">
