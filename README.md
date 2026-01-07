@@ -7,9 +7,18 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 36px; color: #FF0000; text-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000;">
+  <strong style="font-size: 48px; color: #FF004D; text-shadow: 
+    0 0 5px #FF004D,
+    0 0 10px #FF004D,
+    0 0 20px #FF004D,
+    0 0 40px #FF3399,
+    0 0 60px #FF3399;">
     🌌 POOSTUDIO 🌌
   </strong>
+</p>
+
+<p align="center" style="color: #888; font-size: 18px; margin-top: -10px;">
+  HOLOGRAPHIC NEON VOID • ENTER IF YOU DARE
 </p>
 
 <p align="center" style="margin: 50px 0;">
