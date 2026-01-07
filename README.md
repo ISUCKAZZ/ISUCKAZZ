@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 32px; color: #FF0000; text-shadow: 0 0 15px #FF0000, 0 0 30px #990000;">
+  <strong style="font-size: 48px; color: #FF0000; text-shadow: 0 0 20px #FF0000, 0 0 40px #FF0000, 0 0 60px #990000;">
     🌌 POOSTUDIO 🌌
   </strong>
 </p>
