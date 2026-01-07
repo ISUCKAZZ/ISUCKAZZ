@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=#f44336&center=true&vCenter=true&width=1200&lines=⚡+̷̲̪̠̝ͤP̵̰̠̯͐ô̟̚o͓̖̬̪S̸͔̮t̸̛̰͒̒u̷͚̝̜̬d̫̯͂i̞̠ͭ͐ó̵̠̜̜;💀;🔮" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/352/35236.gif" width="800" alt="PooStudio 3D Holographic Core" style="border: 8px ridge #FF00FF; border-radius: 30px; box-shadow: 0 0 40px #FF00FF, 0 0 80px #9900FF, inset 0 0 20px #FF00FF;" />
+  <img src="https://giffiles.alphacoders.com/352/35236.gif" width="800" alt="PooStudio" style="border: 8px ridge #FF00FF; border-radius: 30px; box-shadow: 0 0 40px #FF00FF, 0 0 80px #9900FF, inset 0 0 20px #FF00FF;" />
   <br /><br />
   <strong><code style="color:#FF00FF; background:#000; padding: 15px 30px; font-size: 24px; border-radius: 15px; box-shadow: 0 0 20px #FF00FF;">🌌 POOSTUDIO: 3D HOLOGRAPHIC REALM</code></strong>
 </p>
 <br />
 <p align="center">
-  <img src="https://github.com/ISUCKAZZ/ISUCKAZZ/blob/output/github-contribution-grid-snake-dark.svg" alt="3D Snake Contribution" />
 </p>
 <p align="center">
   <picture>
